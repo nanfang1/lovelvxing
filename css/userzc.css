@@ -1,0 +1,130 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: url(../img/wallpaper.jpg)no-repeat ;
+	background-size: cover;
+}
+.content{
+	width: 980px;
+	height: 375px;
+	margin: 200px auto 50px ;
+	background-color: white;
+	border-radius: 5px;
+}
+.content .content1{
+	width: 462px;
+	height: 302px;
+	border-right: 1px solid darkgray;
+	margin-left:30px ;
+	margin-top: 30px;
+	float: left;
+}
+.content .content1 .input input{
+	width: 220px;
+	height: 35px;
+}
+.content .content1 .input{
+	font-size: 18;
+	color: #606060;
+}
+.content .content1 .ptzc{
+	width: 68px;
+	height: 23px;
+	text-align: center;
+	border-bottom: 4px solid #75c50a;
+}
+.content .content1 .email{
+	width: 320px;
+	height: 44px;
+	margin-top: 30px;
+	line-height: 44px;
+}
+.content .content1 .pas{
+	width: 320px;
+	height: 44px;
+	margin-top: 15px;
+	line-height: 44px;
+}
+.content .content1 .ypas{
+	width: 320px;
+	height: 44px;
+	margin-top: 15px;
+	line-height: 44px;
+}
+.content .content1 .zc{
+	width: 120px;
+	height: 40px;
+	border-radius: 5px;
+	background-color:#75c50a ;
+	margin-top: 15px;
+	text-align: center;
+	line-height: 40px;
+	margin-left: 100px;
+	cursor: pointer;
+}
+.content2{
+	width:430px ;
+	height:287px ;
+	float: right;
+	margin-top:30px ;
+}
+.content .content2 .kszc{
+	width: 68px;
+	height: 23px;
+	text-align: center;
+	border-bottom: 4px solid #75c50a;
+}
+.content .content2 .login .loginl{
+	width: 138px;
+	height: 37px;
+	margin-top: 25px;
+	border: 1px solid darkgray;
+	float: left;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.content .content2 .login .loginr{
+	width: 167px;
+	height: 38px;
+	margin-top: 25px;
+	border: 1px solid darkgray;
+	border-radius: 5px;
+	float: left;
+	margin-left: 30px;
+	cursor: pointer;
+}
+.content .content2 .login1 .qqlogin{
+	background: url(../img/head.png)no-repeat -303px -124px;
+}
+.content .content2 .login1 .xllogin{
+	background: url(../img/head.png)no-repeat -465px -123px;
+}
+.content .content2 .login2 .tblogin{
+	background: url(../img/head.png)no-repeat -303px -179px;
+}
+.content .content2 .login2 .txlogin{
+	background: url(../img/head.png)no-repeat -465px -179px;
+}
+.content .content2 .login3 .dblogin{
+	background: url(../img/head.png)no-repeat -303px -124px;
+}
+/*.clear{
+	clear: both;
+	overflow: hidden;
+	height: 0px;
+}*/
+.content .content2 .ts .tsin{
+	width: 200px;
+	height: 20px;
+	float: right;
+	margin-top:90px;
+}
+.content .content2 .ts .tsin a{
+	text-decoration: none;
+}
+.bq{
+	margin-bottom: 30px;
+	text-align: center;
+}

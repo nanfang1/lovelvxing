@@ -1,0 +1,177 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: url(../img/bg.jpg);
+}
+.login{
+	width: 1000px;
+	height: 400px;
+	margin: 140px auto 50px;
+	border: 1px solid darkgray;
+}
+.login .loginin{
+	width: 580px;
+	height: 400px;
+	float: left;
+	background-color: white;
+}
+.login .loginin .login1{
+	width: 500px;
+	height: 327px;
+	margin: 30px 35px;
+	
+}
+.login .loginin .login1 p{
+	margin-top: 0px;
+}
+.login .loginin .login1 .tp{
+	width: 500px;
+	height: 315px;
+}
+.login .loginin .login1 .tp .img{
+	width: 192px;
+	height: 302px;
+	float: left;
+	background: url(../img/log1.jpg);
+	background-size: 192px 302px;
+}
+.login .loginin .login1 .tp .img1{
+	width: 293px;
+	height: 150px;
+	float: left;
+	background: url(../img/log2.jpg);
+	background-size: 293px 150px;
+}
+
+.login .loginin .login1 .tp .img2{
+	width: 145px;
+	height: 147px;
+	float: left;
+	background: url(../img/log3.jpg);
+	background-size: 145px 147px;
+}
+.login .loginin .login1 .tp .img3{
+	width: 145px;
+	height:147px ;
+	float: left;
+	background: url(../img/log4.jpg);
+	background-size: 145px 147px;
+}
+.login .loginin .login1 .tp div{
+	margin: 2px;
+}
+.login-{
+	width:370px ;
+	height: 400px;
+	float: right;
+	background-color:white ;
+}
+.login- .userdl{
+	width: 350px;
+	height: 330px;
+	margin: 30px 5px;
+}
+.login- .userdl .userdlin{
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 25px;
+}
+.login- .userdl .userdlin p{
+	font-weight: bold;
+}
+.login- .userdl .idps{
+	width: 300px;
+	margin:10px auto;
+}
+.login- .userdl .idps .idpsin input{
+	width: 300px;
+	height: 40px;
+	margin:10px auto;
+	font-size: 20px;
+}
+.login- .userdl .dl{
+	height: 47px;
+	width: 300px;
+	margin-left: 25px;
+}
+.login- .userdl .dl .dlin{
+	width: 80px;
+	height: 35px;
+	line-height: 35px;
+	background: #7dc82c;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 5px;
+}
+.login- .userdl .dl .dlin a{
+	color: white;
+	text-decoration: none;
+}
+.login- .userdl .dl .dlin{
+	float: left;
+}
+.login- .userdl .dl .sfzddl {
+	float: left;
+	width: 120px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.login- .userdl .dl .sfzddl .input{
+	width: 13px;
+	float: left;
+}
+.login- .userdl .dl .sfzddl .span{
+	display: block;
+	height: 20px;
+	line-height: 20px;
+	float: left;
+	margin: -1px;
+	margin-left: 5px;
+}
+.login- .userdl .dlfs .qq{
+	width: 135px;
+	height: 30px;
+	float: left;
+	margin-left:25px ;
+	margin-right: 10px;
+	margin-top: 10px;
+	border: 1px solid darkgray;
+	background: url(../img/head.png) no-repeat -306px -125px ;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.login- .userdl .dlfs .xl{
+	width: 160px;
+	height: 30px;
+	float: left;
+	margin-top: 10px;
+	border: 1px solid darkgray;
+	background: url(../img/head.png) no-repeat -465px -125px ;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.login- .userdl .wjmm{
+	height: 30px;
+	width: 250px;
+	float: right;
+	margin-top: 37px;
+}
+.login- .userdl .wjmm a{
+	text-decoration: none;
+}
+.footer{
+	margin-top: 20px;
+	margin-bottom:20px ;
+	text-align: center;
+}
+.footer{
+
+	margin-bottom: 20px;
+	text-align: center;
+}
+
