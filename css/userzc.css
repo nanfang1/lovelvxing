@@ -128,3 +128,16 @@ body{
 	margin-bottom: 30px;
 	text-align: center;
 }
+.share{
+	width: 50px;
+	height: 200px;
+
+	position: fixed;
+	right: 100px;
+	top: 200px;
+	text-align: center;
+}
+.share .jiathis_style_32x32{
+	width: 33px;
+	margin: 0px auto;
+}

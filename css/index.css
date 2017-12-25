@@ -1,4 +1,4 @@
-﻿*{
+*{
 	
 	margin: 0px;
 	padding: 0px;
@@ -525,5 +525,18 @@ cursor: pointer;
 	background: darkgray;
 	font-size: 23px;
 	
+}
+.share{
+	width: 50px;
+	height: 200px;
+
+	position: fixed;
+	right: 100px;
+	top: 200px;
+	text-align: center;
+}
+.share .jiathis_style_32x32{
+	width: 33px;
+	margin: 0px auto;
 }
 

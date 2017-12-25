@@ -1,0 +1,252 @@
+*{
+	
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(../img/bg.jpg);
+}
+/*头部导航部分*/
+.dhdh{
+	width: 100%;
+    height: 100px;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    z-index: 999;
+    border-bottom: 1px solid #cccccc;
+}
+.zong{
+	pos-height: 65px;
+	background: black;
+	line-height: 65px;
+	background: url(../img/bg.jpg);
+	
+}
+.header-bg{
+	height: 35px;
+	background: black;
+	line-height: 35px;
+}
+.header{
+	width: 990px;
+	height: 35px;
+	margin: 0px auto;
+}
+.header-top1{
+	height: 35px;
+	
+}
+.header .header-top1 .banshi{
+	height: 35px;
+	display: inline-block;
+}
+.header .header-top1 .banshi a{
+	color: white;
+	text-decoration: none;
+}
+.header .header-top1 .denglu{
+		height: 35px;
+		display: inline-block;
+		float: right;
+}
+.header .header-top1 .denglu a{
+		color: white;
+		text-decoration: none;
+}
+.header .header-top1 .denglu a{
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+.header .header-top1 .denglu a .xiaoxi{
+	width: 23px;
+	height: 21px;
+	margin: 9px 0px;
+	background:url(../img/icon_bg.png) no-repeat -125px -124px;
+
+}
+.header .header-top1 .denglu a .xiaoxi1{
+	width: 23px;
+	height: 21px;
+	margin: 9px 0px;
+	background: url(../img/TIM截图20171215144110.png) no-repeat -2px -4px;
+	background-size: cover;
+
+}
+.header .header-top1 .denglu a .tx{
+	width: 35px;
+	height: 35px;
+	margin: 0px 0px;
+	background: url(../img/admin.jpg) no-repeat;
+	background-size: cover;
+
+}
+.header .header-top1 .denglu a .yhm{
+	width: 100px;
+	height: 21px;
+	margin: 9px 0px;
+	color: white;
+	text-align: center;
+	line-height: 21px;
+}
+
+
+.header02{
+	width: 990px;
+	height: 65px;
+	margin: 0px auto;
+
+
+}
+.header02 .header-logo{
+	width: 145px;
+	height: 65px;
+
+	background: url(../img/logo.png);
+	background-size: cover;
+	float: left;
+}
+.header02 .dh ul{
+	line-height: 65px;
+}
+.header02 .dh{
+	float: left;
+	width: 630px;
+}
+
+.header02 .dh ul li{
+	display: inline-block;
+	list-style: none;
+	margin-left: 10px;
+	
+}
+.header02 .dh ul li a{
+	color: #606060;
+	text-decoration: none;
+	font-size: 20px;
+}
+.header02 .dh ul li .span{
+	display: block;
+	width: 10px;
+	height: 65px;
+	background: url(../img/nav-line.png) no-repeat center center;
+	line-height: 65px;
+	float: right;
+	margin-left: 3px;
+}
+.header02 .dh ul li .font{
+	font-size: 22px;
+}
+.header02  .input {
+	display: block;
+	float: left;
+	width: 165px;
+	height: 65px;
+	line-height: 65px;
+
+}
+.header02  .input form input{
+	width: 163px;
+}
+.header02 .sobotton{
+	width: 40px;
+	height: 63px;
+	float: left;
+	line-height: 63px;
+	
+}
+.header02 .sobotton input{
+	
+}
+
+.header02 .sobotton .sousuo{
+	width: 24px;
+	height: 23px;
+	margin: 21px 0px;
+	background-color: white;
+}
+hr{
+	width: 100%;
+	margin: 15px 0px;
+}
+.clear{
+	clear: both;
+	overflow: hidden;
+	height: 100px;
+}
+/*内容部分*/
+.content{
+	width: 990px;
+	height: 2580px;
+	padding-top: 20px;
+	background-color: white;
+	margin-top:20px ;
+	margin: 0px auto;
+}
+.content .contentin{
+	width: 920px;
+	margin: 40px auto;
+}
+.content .contentin .list div img{
+	margin: 10px 9px 0px;
+}
+.content .contentin .list div p{
+	margin:0px 7px 0px 10px;
+}
+.content .contentin .list{
+	width: 230px;
+	float: left;
+	
+}
+
+.content .contentin .list div{
+	width: 225px;
+	border: 0.5px solid darkgray;
+	margin-bottom: 3px;
+}
+.content .contentin .list1{
+	width: 230px;
+	float: left;
+}
+.content .contentin .list1 div{
+	width: 1px solid red;
+	width: 225px;
+	border: 0.5px solid darkgray;
+	 margin-bottom: 3px;
+}
+.content .contentin .list2{
+	width: 230px;
+	float: left;
+}
+.content .contentin .list2 div{
+	border: 0.5px solid darkgray;
+	width: 225px;
+	 margin-bottom: 3px;
+}
+.content .contentin .list3{
+	width: 230px;
+	float: left;
+}
+.content .contentin .list3 div{
+	width: 225px;
+	 border: 0.5px solid darkgray;
+	 margin-bottom: 3px;
+}
+.footer{
+	height: 100px;
+	text-align: center;
+}
+.share{
+	width: 50px;
+	height: 200px;
+
+	position: fixed;
+	right: 100px;
+	top: 200px;
+	text-align: center;
+}
+.share .jiathis_style_32x32{
+	width: 33px;
+	margin: 0px auto;
+}
